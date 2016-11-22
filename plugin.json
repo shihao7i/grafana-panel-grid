@@ -1,0 +1,30 @@
+{
+  "type": "panel",
+  "name": "UI-Grid",
+  "id": "ui-grid-panel",
+
+  "info": {
+    "description": "UI-Grid panel for grafana",
+    "author": {
+      "name": "Brandon Li",
+      "url": "https://www.hpe.com/us/en/home.html"
+    },
+    "keywords": ["ui-grid", "panel", "table"],
+    "logos": {
+      "small": "src/img/ui.grid_logo_small.png",
+      "large": "src/img/ui.grid_logo_large.png"
+    },
+    "links": [
+      {"name": "Project site", "url": "https://github.hpe.com/Hercules/ux-panel-grid"},
+      {"name": "Blog Post", "url": ""},
+      {"name": "MIT License", "url": ""}
+    ],
+    "version": "0.1.0",
+    "updated": "2016-06-23"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
