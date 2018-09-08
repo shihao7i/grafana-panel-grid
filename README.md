@@ -1,6 +1,6 @@
 # UI Grid Panel Plugin for Grafana
 
-This is what I did in Hewlett Packard Enterprise Sunnyvale, CA. It's just a POC and eventually we made a dicision instead of using Grafana, using React to buid our project, so I decided to upload this on my personal Github, wish it can hlep more people who want to know how to write a Grafana-plugin. I completed this alone in HPE, and we did't use grafana is our project, so I got permit to share my code. 
+This is what I did in Hewlett Packard Enterprise Sunnyvale, CA in June 2016. It's just a POC and eventually we made a dicision instead of using Grafana, using React to buid our project, so I decided to upload this on my personal Github, wish it can hlep more people who want to know how to write a Grafana-plugin. I completed this alone in HPE, and we did't use grafana is our project, so I got permit to share my code. 
 
 You need the lastest grafana build for Grafana 3.0 to enable plugin support. You can get it here : http://grafana.org/download/builds.html
 
